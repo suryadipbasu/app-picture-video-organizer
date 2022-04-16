@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoGrouperByYear", "PhotoGrouperByYear.csproj", "{89DB7DD7-4703-4ACF-ACBA-2F0E6D055B19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89DB7DD7-4703-4ACF-ACBA-2F0E6D055B19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89DB7DD7-4703-4ACF-ACBA-2F0E6D055B19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89DB7DD7-4703-4ACF-ACBA-2F0E6D055B19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89DB7DD7-4703-4ACF-ACBA-2F0E6D055B19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {246A3C65-9C12-4BD5-9FC7-AB90ADA1C7A8}
+	EndGlobalSection
+EndGlobal
